@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 My name is laifangrong,a college student in Zhejiang University of Science and Technology.
 
@@ -8,9 +8,9 @@ working on industrial design
 
 learning Java and Python recently
 
-looking for help with how to write a good-looking front end
+looking for help with how to write a good-looking front end😫
 
-看嘻嘻，不见我看不见我
+嘻嘻，看不见我看不见我🤭
 
 <!--
 **LinineTy/LinineTy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
