@@ -1,11 +1,14 @@
 ### Hi there 👋
+
 My name is laifangrong.I'm from China,now is a college student in Zhejiang University of Science and Technology.You can use wechat "wxid_jwolb8yaml8b22" contact me.
 
-🔭 I’m currently working on industrial design
-🌱 I’m currently learning Java and Python
-🤔 I’m looking for help with how to write a good-looking front end
-📫 Can't see me, can't see me.
+working on industrial design
 
+learning Java and Python recently
+
+looking for help with how to write a good-looking front end
+
+看嘻嘻，不见我看不见我
 
 <!--
 **LinineTy/LinineTy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
