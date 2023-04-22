@@ -1,6 +1,6 @@
 ### Hi there 
 
-My name is laifangrong,a college student in Zhejiang University of Science and Technology.
+A college student in Zhejiang University of Science and Technology.
 
 You can use wechat "wxid_jwolb8yaml8b22" contact me.
 
