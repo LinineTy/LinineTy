@@ -1,16 +1,6 @@
 ### Hi there 
 
-A college student in Zhejiang University of Science and Technology.
-
-You can use wechat "wxid_jwolb8yaml8b22" contact me.
-
-working on industrial design
-
-learning Java and Python recently
-
-looking for help with how to write a good-looking front end😫
-
-嘻嘻，看不见我看不见我🤭
+Just a student
 
 <!--
 **LinineTy/LinineTy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
