@@ -1,6 +1,9 @@
-### Hi there 
+### 你好啊  
 
-Just a student
+很高兴见到你，可能提供不了什么帮助  
+
+>那就祝你：  
+>早安~，午安~，晚安~
 
 <!--
 **LinineTy/LinineTy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
